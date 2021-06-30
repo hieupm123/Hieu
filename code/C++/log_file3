@@ -1,0 +1,1000 @@
+[  302.653676] ath: phy0: Unable to reset channel, reset status -22
+[  302.666091] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  302.862933] ath: phy0: Chip reset failed
+[  302.862936] ath: phy0: Unable to reset channel, reset status -22
+[  302.875346] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  303.072257] ath: phy0: Chip reset failed
+[  303.072260] ath: phy0: Unable to reset channel, reset status -22
+[  303.084668] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  303.281523] ath: phy0: Chip reset failed
+[  303.281526] ath: phy0: Unable to reset channel, reset status -22
+[  303.293960] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  303.490770] ath: phy0: Chip reset failed
+[  303.490773] ath: phy0: Unable to reset channel, reset status -22
+[  303.503206] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  303.700040] ath: phy0: Chip reset failed
+[  303.700044] ath: phy0: Unable to reset channel, reset status -22
+[  303.712446] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  303.909222] ath: phy0: Chip reset failed
+[  303.909226] ath: phy0: Unable to reset channel, reset status -22
+[  303.921628] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  304.118441] ath: phy0: Chip reset failed
+[  304.118445] ath: phy0: Unable to reset channel, reset status -22
+[  304.130865] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  304.327674] ath: phy0: Chip reset failed
+[  304.327677] ath: phy0: Unable to reset channel, reset status -22
+[  304.340084] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  304.536854] ath: phy0: Chip reset failed
+[  304.536856] ath: phy0: Unable to reset channel, reset status -22
+[  304.549266] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  304.746083] ath: phy0: Chip reset failed
+[  304.746086] ath: phy0: Unable to reset channel, reset status -22
+[  304.758493] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  304.955260] ath: phy0: Chip reset failed
+[  304.955264] ath: phy0: Unable to reset channel, reset status -22
+[  304.967668] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  305.164466] ath: phy0: Chip reset failed
+[  305.164471] ath: phy0: Unable to reset channel, reset status -22
+[  305.176997] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  305.374307] ath: phy0: Chip reset failed
+[  305.374310] ath: phy0: Unable to reset channel, reset status -22
+[  305.386709] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  305.583476] ath: phy0: Chip reset failed
+[  305.583480] ath: phy0: Unable to reset channel, reset status -22
+[  305.595914] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  305.792680] ath: phy0: Chip reset failed
+[  305.792682] ath: phy0: Unable to reset channel, reset status -22
+[  305.805087] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  306.002269] ath: phy0: Chip reset failed
+[  306.002273] ath: phy0: Unable to reset channel, reset status -22
+[  306.014779] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  306.212010] ath: phy0: Chip reset failed
+[  306.212014] ath: phy0: Unable to reset channel, reset status -22
+[  306.224439] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  306.421301] ath: phy0: Chip reset failed
+[  306.421305] ath: phy0: Unable to reset channel, reset status -22
+[  306.433786] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  306.630821] ath: phy0: Chip reset failed
+[  306.630825] ath: phy0: Unable to reset channel, reset status -22
+[  306.643247] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  306.840003] ath: phy0: Chip reset failed
+[  306.840004] ath: phy0: Unable to reset channel, reset status -22
+[  306.852426] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  307.049231] ath: phy0: Chip reset failed
+[  307.049234] ath: phy0: Unable to reset channel, reset status -22
+[  307.061659] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  307.258494] ath: phy0: Chip reset failed
+[  307.258497] ath: phy0: Unable to reset channel, reset status -22
+[  307.270916] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  307.467756] ath: phy0: Chip reset failed
+[  307.467758] ath: phy0: Unable to reset channel, reset status -22
+[  307.480155] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  307.677292] ath: phy0: Chip reset failed
+[  307.677296] ath: phy0: Unable to reset channel, reset status -22
+[  307.689722] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  307.886663] ath: phy0: Chip reset failed
+[  307.886667] ath: phy0: Unable to reset channel, reset status -22
+[  307.899067] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  308.096417] ath: phy0: Chip reset failed
+[  308.096422] ath: phy0: Unable to reset channel, reset status -22
+[  308.108888] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  308.305896] ath: phy0: Chip reset failed
+[  308.305900] ath: phy0: Unable to reset channel, reset status -22
+[  308.318336] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  308.515169] ath: phy0: Chip reset failed
+[  308.515173] ath: phy0: Unable to reset channel, reset status -22
+[  308.527683] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  308.725744] ath: phy0: Chip reset failed
+[  308.725749] ath: phy0: Unable to reset channel, reset status -22
+[  308.738214] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  308.936010] ath: phy0: Chip reset failed
+[  308.936016] ath: phy0: Unable to reset channel, reset status -22
+[  308.948440] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  309.145911] ath: phy0: Chip reset failed
+[  309.145916] ath: phy0: Unable to reset channel, reset status -22
+[  309.158343] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  309.355444] ath: phy0: Chip reset failed
+[  309.355448] ath: phy0: Unable to reset channel, reset status -22
+[  309.367869] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  309.565100] ath: phy0: Chip reset failed
+[  309.565105] ath: phy0: Unable to reset channel, reset status -22
+[  309.577597] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  309.774544] ath: phy0: Chip reset failed
+[  309.774548] ath: phy0: Unable to reset channel, reset status -22
+[  309.786989] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  309.983933] ath: phy0: Chip reset failed
+[  309.983937] ath: phy0: Unable to reset channel, reset status -22
+[  309.996356] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  310.193144] ath: phy0: Chip reset failed
+[  310.193148] ath: phy0: Unable to reset channel, reset status -22
+[  310.205579] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  310.402428] ath: phy0: Chip reset failed
+[  310.402432] ath: phy0: Unable to reset channel, reset status -22
+[  310.414855] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  310.611740] ath: phy0: Chip reset failed
+[  310.611744] ath: phy0: Unable to reset channel, reset status -22
+[  310.624149] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  310.820926] ath: phy0: Chip reset failed
+[  310.820930] ath: phy0: Unable to reset channel, reset status -22
+[  310.833332] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  311.030134] ath: phy0: Chip reset failed
+[  311.030137] ath: phy0: Unable to reset channel, reset status -22
+[  311.042589] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  311.239340] ath: phy0: Chip reset failed
+[  311.239342] ath: phy0: Unable to reset channel, reset status -22
+[  311.465825] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  311.478169] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  313.913337] ath: phy0: Failed to wakeup in 500us
+[  314.137855] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  314.150196] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  319.032959] ath: phy0: Failed to wakeup in 500us
+[  319.258136] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  319.270656] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  324.152924] ath: phy0: Failed to wakeup in 500us
+[  324.378152] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  324.390547] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  328.486782] usb 1-8: reset full-speed USB device number 4 using xhci_hcd
+[  328.634713] usb 1-8: device firmware changed
+[  328.634768] usb 1-8: USB disconnect, device number 4
+[  328.906367] usb 1-8: new full-speed USB device number 5 using xhci_hcd
+[  329.055820] usb 1-8: New USB device found, idVendor=13d3, idProduct=3490, bcdDevice= 0.01
+[  329.055827] usb 1-8: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[  329.082305] usb 1-8: USB disconnect, device number 5
+[  329.390334] usb 1-8: new full-speed USB device number 6 using xhci_hcd
+[  330.041291] ath: phy0: Failed to wakeup in 500us
+[  330.265806] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  330.278155] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  331.005775] ath: phy0: Failed to wakeup in 500us
+[  331.018554] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  331.216144] ath: phy0: Chip reset failed
+[  331.216149] ath: phy0: Unable to reset channel, reset status -22
+[  331.228803] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  331.426292] ath: phy0: Chip reset failed
+[  331.426296] ath: phy0: Unable to reset channel, reset status -22
+[  331.438794] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  331.635692] ath: phy0: Chip reset failed
+[  331.635695] ath: phy0: Unable to reset channel, reset status -22
+[  331.648161] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  331.844957] ath: phy0: Chip reset failed
+[  331.844960] ath: phy0: Unable to reset channel, reset status -22
+[  331.857411] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  332.054233] ath: phy0: Chip reset failed
+[  332.054236] ath: phy0: Unable to reset channel, reset status -22
+[  332.066692] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  332.263506] ath: phy0: Chip reset failed
+[  332.263508] ath: phy0: Unable to reset channel, reset status -22
+[  332.263535] i2c_designware i2c_designware.1: controller timed out
+[  332.275970] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  332.472753] ath: phy0: Chip reset failed
+[  332.472754] ath: phy0: Unable to reset channel, reset status -22
+[  332.485214] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  332.682080] ath: phy0: Chip reset failed
+[  332.682084] ath: phy0: Unable to reset channel, reset status -22
+[  332.694554] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  332.891394] ath: phy0: Chip reset failed
+[  332.891398] ath: phy0: Unable to reset channel, reset status -22
+[  332.903858] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  333.100685] ath: phy0: Chip reset failed
+[  333.100688] ath: phy0: Unable to reset channel, reset status -22
+[  333.113153] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  333.309954] ath: phy0: Chip reset failed
+[  333.309956] ath: phy0: Unable to reset channel, reset status -22
+[  333.309984] i2c_designware i2c_designware.1: controller timed out
+[  333.322428] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  333.519281] ath: phy0: Chip reset failed
+[  333.519285] ath: phy0: Unable to reset channel, reset status -22
+[  333.531748] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  333.728552] ath: phy0: Chip reset failed
+[  333.728556] ath: phy0: Unable to reset channel, reset status -22
+[  333.741026] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  333.937862] ath: phy0: Chip reset failed
+[  333.937867] ath: phy0: Unable to reset channel, reset status -22
+[  333.950278] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  334.147071] ath: phy0: Chip reset failed
+[  334.147073] ath: phy0: Unable to reset channel, reset status -22
+[  334.159532] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  334.356336] ath: phy0: Chip reset failed
+[  334.356337] ath: phy0: Unable to reset channel, reset status -22
+[  334.356366] i2c_designware i2c_designware.1: controller timed out
+[  334.368801] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  334.565651] ath: phy0: Chip reset failed
+[  334.565655] ath: phy0: Unable to reset channel, reset status -22
+[  334.578083] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  334.774883] ath: phy0: Chip reset failed
+[  334.774885] ath: phy0: Unable to reset channel, reset status -22
+[  334.786874] usb 1-8: New USB device found, idVendor=13d3, idProduct=3490, bcdDevice= 0.02
+[  334.786875] usb 1-8: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[  334.787281] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  334.988910] ath: phy0: Chip reset failed
+[  334.988914] ath: phy0: Unable to reset channel, reset status -22
+[  335.001477] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  335.199384] ath: phy0: Chip reset failed
+[  335.199390] ath: phy0: Unable to reset channel, reset status -22
+[  335.211918] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  335.409477] ath: phy0: Chip reset failed
+[  335.409482] ath: phy0: Unable to reset channel, reset status -22
+[  335.421986] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  335.619207] ath: phy0: Chip reset failed
+[  335.619212] ath: phy0: Unable to reset channel, reset status -22
+[  335.631875] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  335.828703] ath: phy0: Chip reset failed
+[  335.828706] ath: phy0: Unable to reset channel, reset status -22
+[  335.841181] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  336.038021] ath: phy0: Chip reset failed
+[  336.038025] ath: phy0: Unable to reset channel, reset status -22
+[  336.050501] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  336.247329] ath: phy0: Chip reset failed
+[  336.247331] ath: phy0: Unable to reset channel, reset status -22
+[  336.260281] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  336.457084] ath: phy0: Chip reset failed
+[  336.457086] ath: phy0: Unable to reset channel, reset status -22
+[  336.469549] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  336.621817] i2c_designware i2c_designware.1: controller timed out
+[  336.666393] ath: phy0: Chip reset failed
+[  336.666396] ath: phy0: Unable to reset channel, reset status -22
+[  336.678829] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  336.875651] ath: phy0: Chip reset failed
+[  336.875654] ath: phy0: Unable to reset channel, reset status -22
+[  336.888068] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  337.084952] ath: phy0: Chip reset failed
+[  337.084957] ath: phy0: Unable to reset channel, reset status -22
+[  337.097433] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  337.294256] ath: phy0: Chip reset failed
+[  337.294260] ath: phy0: Unable to reset channel, reset status -22
+[  337.306665] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  337.503518] ath: phy0: Chip reset failed
+[  337.503521] ath: phy0: Unable to reset channel, reset status -22
+[  337.515952] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  337.712765] ath: phy0: Chip reset failed
+[  337.712767] ath: phy0: Unable to reset channel, reset status -22
+[  337.725177] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  337.921994] ath: phy0: Chip reset failed
+[  337.921998] ath: phy0: Unable to reset channel, reset status -22
+[  337.934397] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  338.131232] ath: phy0: Chip reset failed
+[  338.131234] ath: phy0: Unable to reset channel, reset status -22
+[  338.143671] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  338.340462] ath: phy0: Chip reset failed
+[  338.340464] ath: phy0: Unable to reset channel, reset status -22
+[  338.352863] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  338.549682] ath: phy0: Chip reset failed
+[  338.549684] ath: phy0: Unable to reset channel, reset status -22
+[  338.562110] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  338.759182] ath: phy0: Chip reset failed
+[  338.759185] ath: phy0: Unable to reset channel, reset status -22
+[  338.771605] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  338.968476] ath: phy0: Chip reset failed
+[  338.968480] ath: phy0: Unable to reset channel, reset status -22
+[  338.980891] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  339.177697] ath: phy0: Chip reset failed
+[  339.177698] ath: phy0: Unable to reset channel, reset status -22
+[  339.190106] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  339.386960] ath: phy0: Chip reset failed
+[  339.386964] ath: phy0: Unable to reset channel, reset status -22
+[  339.399409] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  339.596783] ath: phy0: Chip reset failed
+[  339.596787] ath: phy0: Unable to reset channel, reset status -22
+[  339.609187] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  339.806156] ath: phy0: Chip reset failed
+[  339.806159] ath: phy0: Unable to reset channel, reset status -22
+[  339.818559] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  340.015651] ath: phy0: Chip reset failed
+[  340.015662] ath: phy0: Unable to reset channel, reset status -22
+[  340.028104] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  340.225778] ath: phy0: Chip reset failed
+[  340.225783] ath: phy0: Unable to reset channel, reset status -22
+[  340.238206] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  340.436004] ath: phy0: Chip reset failed
+[  340.436008] ath: phy0: Unable to reset channel, reset status -22
+[  340.448394] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  340.646113] ath: phy0: Chip reset failed
+[  340.646118] ath: phy0: Unable to reset channel, reset status -22
+[  340.658554] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  340.856012] ath: phy0: Chip reset failed
+[  340.856017] ath: phy0: Unable to reset channel, reset status -22
+[  340.868529] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  341.066783] ath: phy0: Chip reset failed
+[  341.066787] ath: phy0: Unable to reset channel, reset status -22
+[  341.079196] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  341.276115] ath: phy0: Chip reset failed
+[  341.276120] ath: phy0: Unable to reset channel, reset status -22
+[  341.288530] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  341.485319] ath: phy0: Chip reset failed
+[  341.485321] ath: phy0: Unable to reset channel, reset status -22
+[  341.498013] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  341.694958] ath: phy0: Chip reset failed
+[  341.694962] ath: phy0: Unable to reset channel, reset status -22
+[  341.707380] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  341.904197] ath: phy0: Chip reset failed
+[  341.904200] ath: phy0: Unable to reset channel, reset status -22
+[  341.916604] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  342.113401] ath: phy0: Chip reset failed
+[  342.113404] ath: phy0: Unable to reset channel, reset status -22
+[  342.125807] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  342.322603] ath: phy0: Chip reset failed
+[  342.322605] ath: phy0: Unable to reset channel, reset status -22
+[  342.335007] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  342.531836] ath: phy0: Chip reset failed
+[  342.531840] ath: phy0: Unable to reset channel, reset status -22
+[  342.544241] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  342.741034] ath: phy0: Chip reset failed
+[  342.741036] ath: phy0: Unable to reset channel, reset status -22
+[  342.753456] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  342.950269] ath: phy0: Chip reset failed
+[  342.950273] ath: phy0: Unable to reset channel, reset status -22
+[  342.962673] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  343.159474] ath: phy0: Chip reset failed
+[  343.159476] ath: phy0: Unable to reset channel, reset status -22
+[  343.171877] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  343.368825] ath: phy0: Chip reset failed
+[  343.368828] ath: phy0: Unable to reset channel, reset status -22
+[  343.381244] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  343.579550] ath: phy0: Chip reset failed
+[  343.579561] ath: phy0: Unable to reset channel, reset status -22
+[  343.592022] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  343.789906] ath: phy0: Chip reset failed
+[  343.789910] ath: phy0: Unable to reset channel, reset status -22
+[  343.802333] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  343.999299] ath: phy0: Chip reset failed
+[  343.999303] ath: phy0: Unable to reset channel, reset status -22
+[  344.011741] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  344.208540] ath: phy0: Chip reset failed
+[  344.208542] ath: phy0: Unable to reset channel, reset status -22
+[  344.433626] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  344.445973] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  345.913175] ath: phy0: Failed to wakeup in 500us
+[  346.137687] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  346.150183] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  351.032710] ath: phy0: Failed to wakeup in 500us
+[  351.258414] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  351.270759] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  356.152665] ath: phy0: Failed to wakeup in 500us
+[  356.377893] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  356.390238] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  362.040728] ath: phy0: Failed to wakeup in 500us
+[  362.265157] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  362.277497] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  366.904638] ath: phy0: Failed to wakeup in 500us
+[  367.131066] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  367.143416] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  372.025001] ath: phy0: Failed to wakeup in 500us
+[  372.253725] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  372.266107] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  374.009318] ath: phy0: Failed to wakeup in 500us
+[  374.021857] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  374.218864] ath: phy0: Chip reset failed
+[  374.218868] ath: phy0: Unable to reset channel, reset status -22
+[  374.231374] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  374.428212] ath: phy0: Chip reset failed
+[  374.428214] ath: phy0: Unable to reset channel, reset status -22
+[  374.440678] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  374.637460] ath: phy0: Chip reset failed
+[  374.637462] ath: phy0: Unable to reset channel, reset status -22
+[  374.649933] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  374.846726] ath: phy0: Chip reset failed
+[  374.846729] ath: phy0: Unable to reset channel, reset status -22
+[  374.859172] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  375.056027] ath: phy0: Chip reset failed
+[  375.056031] ath: phy0: Unable to reset channel, reset status -22
+[  375.068491] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  375.245614] i2c_designware i2c_designware.1: controller timed out
+[  375.265306] ath: phy0: Chip reset failed
+[  375.265308] ath: phy0: Unable to reset channel, reset status -22
+[  375.277712] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  375.474518] ath: phy0: Chip reset failed
+[  375.474519] ath: phy0: Unable to reset channel, reset status -22
+[  375.486935] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  375.683722] ath: phy0: Chip reset failed
+[  375.683724] ath: phy0: Unable to reset channel, reset status -22
+[  375.696117] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  375.892970] ath: phy0: Chip reset failed
+[  375.892973] ath: phy0: Unable to reset channel, reset status -22
+[  375.905382] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  376.102224] ath: phy0: Chip reset failed
+[  376.102228] ath: phy0: Unable to reset channel, reset status -22
+[  376.114636] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  376.311436] ath: phy0: Chip reset failed
+[  376.311438] ath: phy0: Unable to reset channel, reset status -22
+[  376.323842] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  376.520654] ath: phy0: Chip reset failed
+[  376.520655] ath: phy0: Unable to reset channel, reset status -22
+[  376.533079] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  376.729918] ath: phy0: Chip reset failed
+[  376.729920] ath: phy0: Unable to reset channel, reset status -22
+[  376.742342] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  376.939208] ath: phy0: Chip reset failed
+[  376.939211] ath: phy0: Unable to reset channel, reset status -22
+[  376.951648] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  377.148508] ath: phy0: Chip reset failed
+[  377.148512] ath: phy0: Unable to reset channel, reset status -22
+[  377.160936] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  377.357730] ath: phy0: Chip reset failed
+[  377.357732] ath: phy0: Unable to reset channel, reset status -22
+[  377.370128] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  377.566930] ath: phy0: Chip reset failed
+[  377.566931] ath: phy0: Unable to reset channel, reset status -22
+[  377.579354] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  377.776149] ath: phy0: Chip reset failed
+[  377.776151] ath: phy0: Unable to reset channel, reset status -22
+[  377.788548] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  377.985370] ath: phy0: Chip reset failed
+[  377.985374] ath: phy0: Unable to reset channel, reset status -22
+[  377.997780] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  378.194590] ath: phy0: Chip reset failed
+[  378.194593] ath: phy0: Unable to reset channel, reset status -22
+[  378.206995] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  378.403795] ath: phy0: Chip reset failed
+[  378.403797] ath: phy0: Unable to reset channel, reset status -22
+[  378.416189] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  378.613065] ath: phy0: Chip reset failed
+[  378.613069] ath: phy0: Unable to reset channel, reset status -22
+[  378.625569] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  378.822382] ath: phy0: Chip reset failed
+[  378.822385] ath: phy0: Unable to reset channel, reset status -22
+[  378.834782] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  379.031613] ath: phy0: Chip reset failed
+[  379.031616] ath: phy0: Unable to reset channel, reset status -22
+[  379.044055] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  379.240876] ath: phy0: Chip reset failed
+[  379.240879] ath: phy0: Unable to reset channel, reset status -22
+[  379.253295] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  379.450100] ath: phy0: Chip reset failed
+[  379.450102] ath: phy0: Unable to reset channel, reset status -22
+[  379.462499] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  379.659295] ath: phy0: Chip reset failed
+[  379.659297] ath: phy0: Unable to reset channel, reset status -22
+[  379.671711] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  379.868525] ath: phy0: Chip reset failed
+[  379.868529] ath: phy0: Unable to reset channel, reset status -22
+[  379.880938] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  380.077757] ath: phy0: Chip reset failed
+[  380.077760] ath: phy0: Unable to reset channel, reset status -22
+[  380.090359] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  380.287486] ath: phy0: Chip reset failed
+[  380.287490] ath: phy0: Unable to reset channel, reset status -22
+[  380.299902] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  380.496700] ath: phy0: Chip reset failed
+[  380.496702] ath: phy0: Unable to reset channel, reset status -22
+[  380.509112] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  380.705911] ath: phy0: Chip reset failed
+[  380.705913] ath: phy0: Unable to reset channel, reset status -22
+[  380.718320] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  380.915135] ath: phy0: Chip reset failed
+[  380.915139] ath: phy0: Unable to reset channel, reset status -22
+[  380.927559] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  381.124397] ath: phy0: Chip reset failed
+[  381.124402] ath: phy0: Unable to reset channel, reset status -22
+[  381.136826] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  381.333645] ath: phy0: Chip reset failed
+[  381.333647] ath: phy0: Unable to reset channel, reset status -22
+[  381.346060] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  381.542854] ath: phy0: Chip reset failed
+[  381.542855] ath: phy0: Unable to reset channel, reset status -22
+[  381.555321] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  381.752113] ath: phy0: Chip reset failed
+[  381.752114] ath: phy0: Unable to reset channel, reset status -22
+[  381.764578] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  381.961393] ath: phy0: Chip reset failed
+[  381.961397] ath: phy0: Unable to reset channel, reset status -22
+[  381.973860] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  382.170707] ath: phy0: Chip reset failed
+[  382.170711] ath: phy0: Unable to reset channel, reset status -22
+[  382.183171] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  382.379983] ath: phy0: Chip reset failed
+[  382.379986] ath: phy0: Unable to reset channel, reset status -22
+[  382.380014] i2c_designware i2c_designware.1: controller timed out
+[  382.392439] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  382.589230] ath: phy0: Chip reset failed
+[  382.589232] ath: phy0: Unable to reset channel, reset status -22
+[  382.601646] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  382.798464] ath: phy0: Chip reset failed
+[  382.798466] ath: phy0: Unable to reset channel, reset status -22
+[  382.810859] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  383.007686] ath: phy0: Chip reset failed
+[  383.007690] ath: phy0: Unable to reset channel, reset status -22
+[  383.020092] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  383.216940] ath: phy0: Chip reset failed
+[  383.216944] ath: phy0: Unable to reset channel, reset status -22
+[  383.229363] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  383.426166] ath: phy0: Chip reset failed
+[  383.426168] ath: phy0: Unable to reset channel, reset status -22
+[  383.438560] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  383.635349] ath: phy0: Chip reset failed
+[  383.635350] ath: phy0: Unable to reset channel, reset status -22
+[  383.647865] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  383.845045] ath: phy0: Chip reset failed
+[  383.845050] ath: phy0: Unable to reset channel, reset status -22
+[  383.857666] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  384.054493] ath: phy0: Chip reset failed
+[  384.054497] ath: phy0: Unable to reset channel, reset status -22
+[  384.066910] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  384.263712] ath: phy0: Chip reset failed
+[  384.263714] ath: phy0: Unable to reset channel, reset status -22
+[  384.276132] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  384.472929] ath: phy0: Chip reset failed
+[  384.472931] ath: phy0: Unable to reset channel, reset status -22
+[  384.485327] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  384.682116] ath: phy0: Chip reset failed
+[  384.682118] ath: phy0: Unable to reset channel, reset status -22
+[  384.694531] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  384.891365] ath: phy0: Chip reset failed
+[  384.891370] ath: phy0: Unable to reset channel, reset status -22
+[  384.903773] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  385.100598] ath: phy0: Chip reset failed
+[  385.100602] ath: phy0: Unable to reset channel, reset status -22
+[  385.113005] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  385.309793] ath: phy0: Chip reset failed
+[  385.309795] ath: phy0: Unable to reset channel, reset status -22
+[  385.322204] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  385.518995] ath: phy0: Chip reset failed
+[  385.518996] ath: phy0: Unable to reset channel, reset status -22
+[  385.531387] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  385.728183] ath: phy0: Chip reset failed
+[  385.728185] ath: phy0: Unable to reset channel, reset status -22
+[  385.740595] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  385.937402] ath: phy0: Chip reset failed
+[  385.937406] ath: phy0: Unable to reset channel, reset status -22
+[  385.949814] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  386.146637] ath: phy0: Chip reset failed
+[  386.146640] ath: phy0: Unable to reset channel, reset status -22
+[  386.159039] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  386.355840] ath: phy0: Chip reset failed
+[  386.355841] ath: phy0: Unable to reset channel, reset status -22
+[  386.368257] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  386.565039] ath: phy0: Chip reset failed
+[  386.565040] ath: phy0: Unable to reset channel, reset status -22
+[  386.577427] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  386.774236] ath: phy0: Chip reset failed
+[  386.774237] ath: phy0: Unable to reset channel, reset status -22
+[  386.786641] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  386.983468] ath: phy0: Chip reset failed
+[  386.983471] ath: phy0: Unable to reset channel, reset status -22
+[  386.995917] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  387.192776] ath: phy0: Chip reset failed
+[  387.192780] ath: phy0: Unable to reset channel, reset status -22
+[  387.417428] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  387.429772] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  393.016954] ath: phy0: Failed to wakeup in 500us
+[  393.241584] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  393.253934] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  398.136920] ath: phy0: Failed to wakeup in 500us
+[  398.361284] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  398.373641] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  404.024442] ath: phy0: Failed to wakeup in 500us
+[  404.248984] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  404.261328] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  409.144811] ath: phy0: Failed to wakeup in 500us
+[  409.369112] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  409.381460] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  415.032500] ath: phy0: Failed to wakeup in 500us
+[  415.257555] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  415.269971] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  419.896783] ath: phy0: Failed to wakeup in 500us
+[  420.121156] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  420.133507] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  425.016279] ath: phy0: Failed to wakeup in 500us
+[  425.240954] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  425.253302] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  427.021023] ath: phy0: Failed to wakeup in 500us
+[  427.033581] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  427.230629] ath: phy0: Chip reset failed
+[  427.230632] ath: phy0: Unable to reset channel, reset status -22
+[  427.243136] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  427.440203] ath: phy0: Chip reset failed
+[  427.440207] ath: phy0: Unable to reset channel, reset status -22
+[  427.452729] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  427.649866] ath: phy0: Chip reset failed
+[  427.649870] ath: phy0: Unable to reset channel, reset status -22
+[  427.662295] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  427.859124] ath: phy0: Chip reset failed
+[  427.859128] ath: phy0: Unable to reset channel, reset status -22
+[  427.871590] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  428.068407] ath: phy0: Chip reset failed
+[  428.068411] ath: phy0: Unable to reset channel, reset status -22
+[  428.080877] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  428.277675] ath: phy0: Chip reset failed
+[  428.277677] ath: phy0: Unable to reset channel, reset status -22
+[  428.277707] i2c_designware i2c_designware.1: controller timed out
+[  428.290143] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  428.486977] ath: phy0: Chip reset failed
+[  428.486981] ath: phy0: Unable to reset channel, reset status -22
+[  428.499450] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  428.696262] ath: phy0: Chip reset failed
+[  428.696264] ath: phy0: Unable to reset channel, reset status -22
+[  428.708729] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  428.905564] ath: phy0: Chip reset failed
+[  428.905567] ath: phy0: Unable to reset channel, reset status -22
+[  428.918027] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  429.114894] ath: phy0: Chip reset failed
+[  429.114900] ath: phy0: Unable to reset channel, reset status -22
+[  429.127358] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  429.324171] ath: phy0: Chip reset failed
+[  429.324173] ath: phy0: Unable to reset channel, reset status -22
+[  429.324203] i2c_designware i2c_designware.1: controller timed out
+[  429.336626] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  429.533571] ath: phy0: Chip reset failed
+[  429.533576] ath: phy0: Unable to reset channel, reset status -22
+[  429.546009] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  429.743117] ath: phy0: Chip reset failed
+[  429.743121] ath: phy0: Unable to reset channel, reset status -22
+[  429.755526] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  429.952362] ath: phy0: Chip reset failed
+[  429.952366] ath: phy0: Unable to reset channel, reset status -22
+[  429.964774] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  430.161804] ath: phy0: Chip reset failed
+[  430.161808] ath: phy0: Unable to reset channel, reset status -22
+[  430.174262] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  430.371294] ath: phy0: Chip reset failed
+[  430.371298] ath: phy0: Unable to reset channel, reset status -22
+[  430.383726] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  430.580871] ath: phy0: Chip reset failed
+[  430.580875] ath: phy0: Unable to reset channel, reset status -22
+[  430.593351] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  430.790791] ath: phy0: Chip reset failed
+[  430.790795] ath: phy0: Unable to reset channel, reset status -22
+[  430.803246] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  431.000386] ath: phy0: Chip reset failed
+[  431.000390] ath: phy0: Unable to reset channel, reset status -22
+[  431.012809] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  431.209697] ath: phy0: Chip reset failed
+[  431.209701] ath: phy0: Unable to reset channel, reset status -22
+[  431.222117] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  431.418943] ath: phy0: Chip reset failed
+[  431.418945] ath: phy0: Unable to reset channel, reset status -22
+[  431.431351] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  431.628159] ath: phy0: Chip reset failed
+[  431.628161] ath: phy0: Unable to reset channel, reset status -22
+[  431.640596] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  431.837405] ath: phy0: Chip reset failed
+[  431.837406] ath: phy0: Unable to reset channel, reset status -22
+[  431.849839] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  432.046667] ath: phy0: Chip reset failed
+[  432.046671] ath: phy0: Unable to reset channel, reset status -22
+[  432.059102] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  432.255918] ath: phy0: Chip reset failed
+[  432.255924] ath: phy0: Unable to reset channel, reset status -22
+[  432.268364] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  432.465173] ath: phy0: Chip reset failed
+[  432.465175] ath: phy0: Unable to reset channel, reset status -22
+[  432.477585] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  432.674397] ath: phy0: Chip reset failed
+[  432.674398] ath: phy0: Unable to reset channel, reset status -22
+[  432.686849] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  432.883676] ath: phy0: Chip reset failed
+[  432.883680] ath: phy0: Unable to reset channel, reset status -22
+[  432.896083] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  433.092916] ath: phy0: Chip reset failed
+[  433.092919] ath: phy0: Unable to reset channel, reset status -22
+[  433.105323] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  433.302124] ath: phy0: Chip reset failed
+[  433.302126] ath: phy0: Unable to reset channel, reset status -22
+[  433.314535] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  433.511355] ath: phy0: Chip reset failed
+[  433.511357] ath: phy0: Unable to reset channel, reset status -22
+[  433.523755] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  433.720563] ath: phy0: Chip reset failed
+[  433.720565] ath: phy0: Unable to reset channel, reset status -22
+[  433.732983] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  433.929800] ath: phy0: Chip reset failed
+[  433.929803] ath: phy0: Unable to reset channel, reset status -22
+[  433.942243] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  434.139126] ath: phy0: Chip reset failed
+[  434.139130] ath: phy0: Unable to reset channel, reset status -22
+[  434.151592] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  434.348394] ath: phy0: Chip reset failed
+[  434.348397] ath: phy0: Unable to reset channel, reset status -22
+[  434.360822] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  434.557626] ath: phy0: Chip reset failed
+[  434.557629] ath: phy0: Unable to reset channel, reset status -22
+[  434.570061] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  434.766881] ath: phy0: Chip reset failed
+[  434.766883] ath: phy0: Unable to reset channel, reset status -22
+[  434.779323] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  434.976185] ath: phy0: Chip reset failed
+[  434.976189] ath: phy0: Unable to reset channel, reset status -22
+[  434.988639] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  435.185478] ath: phy0: Chip reset failed
+[  435.185482] ath: phy0: Unable to reset channel, reset status -22
+[  435.197972] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  435.394792] ath: phy0: Chip reset failed
+[  435.394795] ath: phy0: Unable to reset channel, reset status -22
+[  435.407258] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  435.604065] ath: phy0: Chip reset failed
+[  435.604068] ath: phy0: Unable to reset channel, reset status -22
+[  435.616545] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  435.813356] ath: phy0: Chip reset failed
+[  435.813358] ath: phy0: Unable to reset channel, reset status -22
+[  435.825823] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  435.985300] i2c_designware i2c_designware.1: controller timed out
+[  436.022701] ath: phy0: Chip reset failed
+[  436.022703] ath: phy0: Unable to reset channel, reset status -22
+[  436.035176] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  436.231996] ath: phy0: Chip reset failed
+[  436.231999] ath: phy0: Unable to reset channel, reset status -22
+[  436.244453] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  436.441257] ath: phy0: Chip reset failed
+[  436.441259] ath: phy0: Unable to reset channel, reset status -22
+[  436.453723] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  436.650518] ath: phy0: Chip reset failed
+[  436.650520] ath: phy0: Unable to reset channel, reset status -22
+[  436.662973] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  436.859826] ath: phy0: Chip reset failed
+[  436.859829] ath: phy0: Unable to reset channel, reset status -22
+[  436.872291] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  437.069170] ath: phy0: Chip reset failed
+[  437.069174] ath: phy0: Unable to reset channel, reset status -22
+[  437.069206] i2c_designware i2c_designware.1: controller timed out
+[  437.081641] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  437.278447] ath: phy0: Chip reset failed
+[  437.278449] ath: phy0: Unable to reset channel, reset status -22
+[  437.290864] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  437.487663] ath: phy0: Chip reset failed
+[  437.487664] ath: phy0: Unable to reset channel, reset status -22
+[  437.500053] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  437.696861] ath: phy0: Chip reset failed
+[  437.696862] ath: phy0: Unable to reset channel, reset status -22
+[  437.709271] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  437.906087] ath: phy0: Chip reset failed
+[  437.906090] ath: phy0: Unable to reset channel, reset status -22
+[  437.918486] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  438.115325] ath: phy0: Chip reset failed
+[  438.115329] ath: phy0: Unable to reset channel, reset status -22
+[  438.127731] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  438.324546] ath: phy0: Chip reset failed
+[  438.324548] ath: phy0: Unable to reset channel, reset status -22
+[  438.337061] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  438.533862] ath: phy0: Chip reset failed
+[  438.533863] ath: phy0: Unable to reset channel, reset status -22
+[  438.546471] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  438.743272] ath: phy0: Chip reset failed
+[  438.743274] ath: phy0: Unable to reset channel, reset status -22
+[  438.755689] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  438.952512] ath: phy0: Chip reset failed
+[  438.952516] ath: phy0: Unable to reset channel, reset status -22
+[  438.964909] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  439.161737] ath: phy0: Chip reset failed
+[  439.161740] ath: phy0: Unable to reset channel, reset status -22
+[  439.174148] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  439.370943] ath: phy0: Chip reset failed
+[  439.370945] ath: phy0: Unable to reset channel, reset status -22
+[  439.383354] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  439.580145] ath: phy0: Chip reset failed
+[  439.580146] ath: phy0: Unable to reset channel, reset status -22
+[  439.592535] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  439.789332] ath: phy0: Chip reset failed
+[  439.789334] ath: phy0: Unable to reset channel, reset status -22
+[  439.801723] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  439.998565] ath: phy0: Chip reset failed
+[  439.998568] ath: phy0: Unable to reset channel, reset status -22
+[  440.011010] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  440.207865] ath: phy0: Chip reset failed
+[  440.207869] ath: phy0: Unable to reset channel, reset status -22
+[  440.433137] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  440.445480] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  440.888641] ath: phy0: Failed to wakeup in 500us
+[  441.112874] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  441.125226] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  446.008301] ath: phy0: Failed to wakeup in 500us
+[  446.233159] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  446.245501] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  451.128234] ath: phy0: Failed to wakeup in 500us
+[  451.352951] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  451.365289] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  455.992165] ath: phy0: Failed to wakeup in 500us
+[  456.217306] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  456.229635] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  461.112583] ath: phy0: Failed to wakeup in 500us
+[  461.337216] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  461.349563] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  465.976607] ath: phy0: Failed to wakeup in 500us
+[  466.200846] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  466.213197] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  471.100180] ath: phy0: Failed to wakeup in 500us
+[  471.325609] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  471.337983] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  475.964105] ath: phy0: Failed to wakeup in 500us
+[  476.189322] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  476.201766] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  481.080053] ath: phy0: Failed to wakeup in 500us
+[  481.305175] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  481.317591] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  485.944509] ath: phy0: Failed to wakeup in 500us
+[  486.168636] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  486.181032] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  490.052633] ath: phy0: Failed to wakeup in 500us
+[  490.065072] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  490.261912] ath: phy0: Chip reset failed
+[  490.261915] ath: phy0: Unable to reset channel, reset status -22
+[  490.274383] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  490.471192] ath: phy0: Chip reset failed
+[  490.471194] ath: phy0: Unable to reset channel, reset status -22
+[  490.483633] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  490.680506] ath: phy0: Chip reset failed
+[  490.680511] ath: phy0: Unable to reset channel, reset status -22
+[  490.692935] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  490.889809] ath: phy0: Chip reset failed
+[  490.889813] ath: phy0: Unable to reset channel, reset status -22
+[  490.902245] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  491.099122] ath: phy0: Chip reset failed
+[  491.099126] ath: phy0: Unable to reset channel, reset status -22
+[  491.111620] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  491.308437] ath: phy0: Chip reset failed
+[  491.308439] ath: phy0: Unable to reset channel, reset status -22
+[  491.320905] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  491.517693] ath: phy0: Chip reset failed
+[  491.517695] ath: phy0: Unable to reset channel, reset status -22
+[  491.530161] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  491.727020] ath: phy0: Chip reset failed
+[  491.727024] ath: phy0: Unable to reset channel, reset status -22
+[  491.739486] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  491.936303] ath: phy0: Chip reset failed
+[  491.936307] ath: phy0: Unable to reset channel, reset status -22
+[  491.936343] i2c_designware i2c_designware.1: controller timed out
+[  491.948761] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  492.145599] ath: phy0: Chip reset failed
+[  492.145603] ath: phy0: Unable to reset channel, reset status -22
+[  492.158065] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  492.354868] ath: phy0: Chip reset failed
+[  492.354869] ath: phy0: Unable to reset channel, reset status -22
+[  492.367327] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  492.564143] ath: phy0: Chip reset failed
+[  492.564144] ath: phy0: Unable to reset channel, reset status -22
+[  492.576626] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  492.773431] ath: phy0: Chip reset failed
+[  492.773433] ath: phy0: Unable to reset channel, reset status -22
+[  492.785896] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  492.982723] ath: phy0: Chip reset failed
+[  492.982726] ath: phy0: Unable to reset channel, reset status -22
+[  492.995190] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  493.192024] ath: phy0: Chip reset failed
+[  493.192027] ath: phy0: Unable to reset channel, reset status -22
+[  493.192060] i2c_designware i2c_designware.1: controller timed out
+[  493.204500] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  493.401293] ath: phy0: Chip reset failed
+[  493.401295] ath: phy0: Unable to reset channel, reset status -22
+[  493.413708] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  493.610499] ath: phy0: Chip reset failed
+[  493.610500] ath: phy0: Unable to reset channel, reset status -22
+[  493.622890] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  493.819685] ath: phy0: Chip reset failed
+[  493.819687] ath: phy0: Unable to reset channel, reset status -22
+[  493.832083] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  494.028901] ath: phy0: Chip reset failed
+[  494.028904] ath: phy0: Unable to reset channel, reset status -22
+[  494.041308] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  494.238144] ath: phy0: Chip reset failed
+[  494.238148] ath: phy0: Unable to reset channel, reset status -22
+[  494.250542] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  494.447341] ath: phy0: Chip reset failed
+[  494.447343] ath: phy0: Unable to reset channel, reset status -22
+[  494.459858] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  494.656683] ath: phy0: Chip reset failed
+[  494.656685] ath: phy0: Unable to reset channel, reset status -22
+[  494.669435] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  494.866274] ath: phy0: Chip reset failed
+[  494.866277] ath: phy0: Unable to reset channel, reset status -22
+[  494.878713] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  495.075566] ath: phy0: Chip reset failed
+[  495.075570] ath: phy0: Unable to reset channel, reset status -22
+[  495.088030] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  495.284849] ath: phy0: Chip reset failed
+[  495.284851] ath: phy0: Unable to reset channel, reset status -22
+[  495.297309] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  495.494110] ath: phy0: Chip reset failed
+[  495.494111] ath: phy0: Unable to reset channel, reset status -22
+[  495.506583] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  495.703386] ath: phy0: Chip reset failed
+[  495.703387] ath: phy0: Unable to reset channel, reset status -22
+[  495.715851] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  495.912662] ath: phy0: Chip reset failed
+[  495.912665] ath: phy0: Unable to reset channel, reset status -22
+[  495.912693] i2c_designware i2c_designware.1: controller timed out
+[  495.925126] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  496.121934] ath: phy0: Chip reset failed
+[  496.121938] ath: phy0: Unable to reset channel, reset status -22
+[  496.134336] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  496.331131] ath: phy0: Chip reset failed
+[  496.331132] ath: phy0: Unable to reset channel, reset status -22
+[  496.343553] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  496.540352] ath: phy0: Chip reset failed
+[  496.540354] ath: phy0: Unable to reset channel, reset status -22
+[  496.552749] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  496.749548] ath: phy0: Chip reset failed
+[  496.749549] ath: phy0: Unable to reset channel, reset status -22
+[  496.761937] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  496.958767] ath: phy0: Chip reset failed
+[  496.958770] ath: phy0: Unable to reset channel, reset status -22
+[  496.971186] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  497.167998] ath: phy0: Chip reset failed
+[  497.168002] ath: phy0: Unable to reset channel, reset status -22
+[  497.180412] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  497.377247] ath: phy0: Chip reset failed
+[  497.377249] ath: phy0: Unable to reset channel, reset status -22
+[  497.389699] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  497.586526] ath: phy0: Chip reset failed
+[  497.586527] ath: phy0: Unable to reset channel, reset status -22
+[  497.598920] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  497.795739] ath: phy0: Chip reset failed
+[  497.795740] ath: phy0: Unable to reset channel, reset status -22
+[  497.808136] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  498.004982] ath: phy0: Chip reset failed
+[  498.004985] ath: phy0: Unable to reset channel, reset status -22
+[  498.017402] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  498.214235] ath: phy0: Chip reset failed
+[  498.214238] ath: phy0: Unable to reset channel, reset status -22
+[  498.226633] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  498.423421] ath: phy0: Chip reset failed
+[  498.423423] ath: phy0: Unable to reset channel, reset status -22
+[  498.435838] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  498.632630] ath: phy0: Chip reset failed
+[  498.632632] ath: phy0: Unable to reset channel, reset status -22
+[  498.645029] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  498.841842] ath: phy0: Chip reset failed
+[  498.841843] ath: phy0: Unable to reset channel, reset status -22
+[  498.854257] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  499.051073] ath: phy0: Chip reset failed
+[  499.051076] ath: phy0: Unable to reset channel, reset status -22
+[  499.063511] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  499.260343] ath: phy0: Chip reset failed
+[  499.260346] ath: phy0: Unable to reset channel, reset status -22
+[  499.272748] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  499.469568] ath: phy0: Chip reset failed
+[  499.469570] ath: phy0: Unable to reset channel, reset status -22
+[  499.481984] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  499.678791] ath: phy0: Chip reset failed
+[  499.678793] ath: phy0: Unable to reset channel, reset status -22
+[  499.691179] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  499.887995] ath: phy0: Chip reset failed
+[  499.887999] ath: phy0: Unable to reset channel, reset status -22
+[  499.900398] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  500.097211] ath: phy0: Chip reset failed
+[  500.097215] ath: phy0: Unable to reset channel, reset status -22
+[  500.109616] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  500.306415] ath: phy0: Chip reset failed
+[  500.306416] ath: phy0: Unable to reset channel, reset status -22
+[  500.318813] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  500.515613] ath: phy0: Chip reset failed
+[  500.515615] ath: phy0: Unable to reset channel, reset status -22
+[  500.528026] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  500.724840] ath: phy0: Chip reset failed
+[  500.724841] ath: phy0: Unable to reset channel, reset status -22
+[  500.737232] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  500.934068] ath: phy0: Chip reset failed
+[  500.934071] ath: phy0: Unable to reset channel, reset status -22
+[  500.946817] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  501.143667] ath: phy0: Chip reset failed
+[  501.143671] ath: phy0: Unable to reset channel, reset status -22
+[  501.156138] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  501.352965] ath: phy0: Chip reset failed
+[  501.352967] ath: phy0: Unable to reset channel, reset status -22
+[  501.365396] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  501.562210] ath: phy0: Chip reset failed
+[  501.562212] ath: phy0: Unable to reset channel, reset status -22
+[  501.574680] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  501.771484] ath: phy0: Chip reset failed
+[  501.771486] ath: phy0: Unable to reset channel, reset status -22
+[  501.783957] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  501.980809] ath: phy0: Chip reset failed
+[  501.980812] ath: phy0: Unable to reset channel, reset status -22
+[  501.980842] i2c_designware i2c_designware.1: controller timed out
+[  501.993279] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  502.190126] ath: phy0: Chip reset failed
+[  502.190130] ath: phy0: Unable to reset channel, reset status -22
+[  502.202586] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  502.399403] ath: phy0: Chip reset failed
+[  502.399405] ath: phy0: Unable to reset channel, reset status -22
+[  502.411869] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  502.608675] ath: phy0: Chip reset failed
+[  502.608677] ath: phy0: Unable to reset channel, reset status -22
+[  502.621136] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  502.817931] ath: phy0: Chip reset failed
+[  502.817933] ath: phy0: Unable to reset channel, reset status -22
+[  502.830462] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  503.027324] ath: phy0: Chip reset failed
+[  503.027328] ath: phy0: Unable to reset channel, reset status -22
+[  503.252848] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  503.265191] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+[  505.912041] ath: phy0: Failed to wakeup in 500us
+[  506.144752] ath: phy0: RX failed to go idle in 10 ms RXSM=0xffffffff
+[  506.157233] ath: phy0: DMA failed to stop in 10 ms AR_CR=0xffffffff AR_DIAG_SW=0xffffffff DMADBG_7=0xffffffff
+ opp  ~  Myfile  code  C++  
